@@ -9,6 +9,11 @@ number-sections: true
 bibliography: referencias.bib
 ---
 
+**Versión publicada:** [Ver documento en la web](https://01a13394-c55f-9af7-510e-8722b8fc18fe.share.connect.posit.cloud)
+
+**Grabación de la exposición:** [Ver grabación](https://drive.google.com/file/d/1JXlhEzs9usAamqSDasz2feviFpGNkL3q/view?usp=sharing)
+
+
 # Introducción
 
 ## Marco de antecedentes y contexto del conjunto de datos
